@@ -1,4 +1,4 @@
-package biz.tutorial.h4design.observer;
+package java.biz.tutorial.h4design.observer;
 
 import java.util.Observable;
 import java.util.Observer;
