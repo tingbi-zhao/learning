@@ -12,6 +12,14 @@ public class Association implements Map.Entry {
         this.value = value;
     }
 
+    public Association(Object key) {
+        this.key = key;
+    }
+
+    public boolean equals(Object otherKey) {
+        return this.key.equals(otherKey);
+    }
+
 
     @Override
     public Object getKey() {
