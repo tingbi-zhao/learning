@@ -1,4 +1,3 @@
-hackerrank/.idea/
-*.iml
+*/.idea/
 */target/
-h4design/.idea/
+*/class/
