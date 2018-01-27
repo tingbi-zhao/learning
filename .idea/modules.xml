@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/h4design/src/main/h4design.iml" filepath="$PROJECT_DIR$/h4design/src/main/h4design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank/src/main/hackerrank.iml" filepath="$PROJECT_DIR$/hackerrank/src/main/hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javastructure/javastructure.iml" filepath="$PROJECT_DIR$/javastructure/javastructure.iml" />
+    </modules>
+  </component>
+</project>
